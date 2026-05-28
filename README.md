@@ -56,7 +56,7 @@ Built with Python (pandas, NumPy, CVXPY) and R (the `sparseIndexTracking` packag
 
 This is an academic project. A few simplifications are documented in the notebooks — for example, current share counts are used as a proxy for historical market caps, and weights are allowed to drift between rebalances (a standard convention). These are noted openly rather than hidden, in keeping with the project's emphasis on honest, reproducible methodology.
 
-## AI Tool Disclosure.
+## AI Tool Disclosure
 This project was developed with the assistance of Anthropic's Claude (claude.ai), used for the following purposes:
 - Code drafting and debugging
 - Methodology discussion
